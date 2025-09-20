@@ -1,10 +1,41 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/xnXsK7_R)
-# MyTV
+# MyTv – Mini Netflix-like Java Project
 
-ℹ Work in groups (two students)  
-ℹ Please insert here your names and IDs (AEM)  
+**MyTv** is a Java application inspired by Netflix, allowing users to browse movies, manage their favorites, and for managers to manage movies and users.  
+It was developed as a learning project to practice object-oriented programming, file handling, and simple user management in Java.
 
-Team Member A: <name> <surname> <AEM> \
-Team Member B: <name> <surname> <AEM> 
+---
 
-⚠ Please keep the submission deadline
+## ✨ Features
+
+### For Regular Users:
+- View the list of movies with details (title, genre, duration, rating, etc.)  
+- Add movies to a **favorites list**  
+- Browse movie details  
+
+### For Managers/Admins:
+- Add new movies  
+- Delete existing movies  
+- Manage users (add, delete, view details)  
+- Full control over the movie catalog  
+
+### Common:
+- Simple and clean **command-line interface**  
+- Persistent storage (files or in-memory, depending on your implementation)  
+- Easy-to-read, modular Java code  
+
+---
+
+## 🛠️ Tech Stack
+
+- Java SE (JDK 8+)  
+- Object-Oriented Programming principles  
+- File handling (for storing movies/users)  
+- Optional: Swing/JavaFX for GUI  
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Java JDK 8 or newer  
+- IDE (IntelliJ IDEA, Eclipse, or NetBeans)
